@@ -1,1 +1,1042 @@
-# briger11.github.io
+<!DOCTYPE html>
+<!-- saved from url=(0087)https://wr.elife.co.kr/MCoca_form02.action?CD_BIZ_LND=150222&CD_LEAS_MNU=10020200000000 -->
+<html lang="ko" data-kantu="1" data-arp-injected="true"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+        <!--head-->
+        
+
+
+ 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title>계약/대기 신청 계약 신청 : e편한세상 테라스위례 모바일</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta property="og:title" content="">
+<meta property="og:url" content="">
+<meta property="og:image" content="">
+<meta property="og:description" content="">
+<link href="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/common_newstay.css" type="text/css" rel="stylesheet">
+<link href="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/HoldOn.css" type="text/css" rel="stylesheet">
+
+<!--아이폰 e편한세상 인천 도화 파비콘-->
+
+
+<!--아이폰 e편한세상 테라스 위례 파비콘-->
+<link rel="apple-touch-icon-precomposed" href="https://wr.elife.co.kr/jsp/mobile/ct/150222/static/images/ad_favicon_w.png?v=2">
+
+<!--안드로이드 e편한세상 인천 도화 파비콘-->
+
+
+<!--안드로이드 e편한세상 테라스 위례 파비콘-->
+<link rel="shortcut icon" href="https://wr.elife.co.kr/jsp/mobile/ct/150222/static/images/ad_favicon_w.ico?v=2" type="image/x-icon">
+
+        <!--//head-->
+         <link rel="canonical" href="https://wr.elife.co.kr/">
+        <!-- title -->
+        
+
+
+
+        <!-- //title -->
+        
+ 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" async="" src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/recaptcha__ko.js.다운로드" crossorigin="anonymous" integrity="sha384-lVniTBVccCq3GZg8YnJCs4d5Piv0nfrpBUCdSV2l6/jYS6+T1EGSlA4PvZ0m6a1h"></script><script type="text/javascript" async="" src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/analytics.js.다운로드"></script><script type="text/javascript" async="" src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/js"></script><script async="" src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/js(1)"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'UA-85974522-1');
+</script>
+
+        <!--
+        <script type="text/javascript">   
+          //뉴스테이
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        
+                     ga('create', 'UA-85974522-1', 'auto');
+                     ga('send', 'pageview');
+        </script>-->
+        <script>
+        var url = location.href;
+        if(url.indexOf("https://local.elife") > -1 || url.indexOf("https://dwlocal.elife") > -1 || url.indexOf("https://wrlocal.elife") > -1 || url.indexOf("https://testdw.elife") > -1  || url.indexOf("https://testwr.elife") > -1 ) {
+            var trackId_v = 'lease_test';
+        } else {
+            var trackId_v = 'lease';
+        }
+        
+        window.appinsightorConf = {
+        uri: 'https://euem.dlenc.co.kr/ne.nfl',
+        trackId: trackId_v,
+        opt: {
+        onerror:true
+        , xhr:{use: true, exceptionFilters: ['css?postfix','.wq?','xml?postfix', 'js?postfix', 'common.js','\/lib/[^\n]*.js|\/js/[^\n]*.js']}
+        , E2E:{use: true, useResponseHeader: true, n$apm:'15880607730154|SS!17110@98:1665032404030' }
+        , expTime:{use: true, clickReport: false}
+        }
+        };
+        </script>
+        
+        <script src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/jquery.js.다운로드"></script>
+        <script src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/commonLib.js.다운로드"></script>
+        <script src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/common.js.다운로드"></script>
+        <script src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/function_mobile.js.다운로드"></script>
+        <script src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/struts2-validate.js.다운로드"></script>
+        <script src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/HoldOn.js.다운로드"></script>
+    </head>
+    <body class="sub-body">
+        <!-- s: 탑배너 들어가는 영역-->
+        <div class="top-banner-area"></div>
+        <!-- e: 탑배너 들어가는 영역-->
+        <div id="wrap">
+            <!-- gnb -->
+            
+
+
+
+
+
+
+
+<header id="header">
+    <div class="header-content">
+        <!-- 메인 로고-->
+        <h1>
+            <a class="btn-header-go-home" href="https://wr.elife.co.kr/MCtmn_main.action?CD_BIZ_LND=150222"><span class="hide-txt">e편한세상</span></a>
+        </h1>
+        <!-- 서브 버튼-->
+        <a class="btn-header-go-prev" href="https://wr.elife.co.kr/MCtmn_main.action?CD_BIZ_LND=150222">
+            <span class="hide-txt">이전페이지</span> 
+            <i class="ico-header-prev" aria-hidden="true"></i>
+        </a>
+        <button class="btn-all-menu" type="button">
+            <span class="hide-txt">전체메뉴 열기</span>
+            <i class="ico-all-menu" aria-hidden="true"></i>
+        </button>
+    </div>  
+    <div class="gnb-wrap">
+        <div class="gnb-dimm" aria-hidden="true"></div>
+        <div class="header-util">
+            <a class="btn-header-util" href="https://play.google.com/store/apps/details?id=kr.co.daelimcorp.smarthome"><span class="txt">스마트홈 2.0</span></a>
+            <a class="btn-header-util" href="https://wr.elife.co.kr/MGpgp_page.action"><span class="txt">게이트</span></a>
+            <a class="btn-header-util-search" href="https://wr.elife.co.kr/MCoca_form02.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=10020200000000#none">
+                <span class="hide-txt">검색 열기</span>
+                <i class="ico-gnb-search" aria-hidden="true"></i>
+            </a>
+        </div>
+        <!-- e 수정 20200409 헤더 로그인 디자인 변경으로 마크업 변경-->
+        <div class="gnb-container">
+            <div class="login-area">
+                <div class="login-box">
+            
+                    <div class="login-on"> 
+                        <div class="header-mypage-area">
+                            <!-- on 하면 폰트 컬러 주황색 됩닌다.-->
+                            <!-- 20200420 ui-btn-mypage 클래스 추가-->
+                            <button class="btn-header-util list-btn ui-btn-mypage" type="button"><span class="txt">양경자님</span></button>
+                            <div class="header-mypage-list">
+                                <!-- s 수정 20200408 마크업 변경 버튼형식을-->
+                                <a class="link" href="https://www.elife.co.kr/MMpii_view00.action">개인정보</a>
+                                <!-- e 수정 20200408 마크업 변경 버튼형식을-->
+                                <a class="link" href="https://www.elife.co.kr/MMpii_view02.action">비밀번호변경</a>
+                                <a class="link" href="javascript:showLogout();">로그아웃</a>
+                            </div>
+                        </div>
+                    </div>
+            
+                </div>
+            </div>
+            <div class="gnb-1depth-area">
+                <ul class="gnb-1depth-list">
+                    
+                      
+                    <li class="gnb-1depth-item">
+                        <span class="gnb-1depth-link ">
+                            <span class="hide-txt">선택됨</span>
+                            <span class="txt">우리단지</span>
+                        </span>
+                        <ul class="gnb-2depth-item">
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtjp_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=02050500000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">단지 소개</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtjp_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=02060000000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">커뮤니티시설 안내</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtga_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=02020100000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">단지 갤러리</span>
+                                </a>
+                            </li>
+                
+                        </ul>
+                    </li>
+                      
+                    <li class="gnb-1depth-item">
+                        <span class="gnb-1depth-link on">
+                            <span class="hide-txt">선택됨</span>
+                            <span class="txt">계약</span>
+                        </span>
+                        <ul class="gnb-2depth-item">
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtjp_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=10010100000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">계약/입퇴거 안내</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link on" href="https://wr.elife.co.kr/MCowa_form01.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=10020100000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">계약/대기 신청</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCofv_list00.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=10030000000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">컨시어지 방문예약</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCorc_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=10040000000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">재계약 신청</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtjp_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=10050100000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">해약 신청</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtrs_list01.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=10060100000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">입퇴거 예약</span>
+                                </a>
+                            </li>
+                
+                        </ul>
+                    </li>
+                      
+                    <li class="gnb-1depth-item">
+                        <span class="gnb-1depth-link ">
+                            <span class="hide-txt">선택됨</span>
+                            <span class="txt">서비스</span>
+                        </span>
+                        <ul class="gnb-2depth-item">
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtjp_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=03010000000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">서비스 소개</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtjp_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=03030401000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">LIVING 생활</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtjp_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=03020100000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">HEALTH 건강</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtoc_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=03040200000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">CULTURE 문화</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtjp_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=03060102010000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">EDUCATION 육아</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtfa_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=03070100000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">커뮤니티</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCsas_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=03080000000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">A/S 및 고객 문의</span>
+                                </a>
+                            </li>
+                
+                        </ul>
+                    </li>
+                      
+                    <li class="gnb-1depth-item">
+                        <span class="gnb-1depth-link ">
+                            <span class="hide-txt">선택됨</span>
+                            <span class="txt">마이홈</span>
+                        </span>
+                        <ul class="gnb-2depth-item">
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtmh_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=04000000000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">종합 정보</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtnc_list01.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=04070000000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">공지사항</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtal_list01.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=04110100000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">계약/대기 신청내역</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtdm_list01.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=04120100000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">납부 내역</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtcc_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=04130000000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">계약 정보 변경</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtsl_list01.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=04140100000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">서비스 신청 내역</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtcs_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=04160000000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">문의 내역</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtrf_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=04170000000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">자료실</span>
+                                </a>
+                            </li>
+                
+                            <li class="gnb-sub-item">
+                                <a class="gnb-sub-link " href="https://wr.elife.co.kr/MCtfq_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=04180000000000">
+                                    <span class="hide-txt">선택됨</span>
+                                    <span class="txt">FAQ</span>
+                                </a>
+                            </li>
+                
+                        </ul>
+                    </li>
+                
+                    
+                    
+                </ul>
+            </div>
+        </div>
+        <button class="close" type="button">
+            <i class="ico-close02"></i>
+            <span class="hide-txt">닫기</span>
+        </button>
+    </div>
+</header>
+
+            <!-- //gnb -->
+            
+
+
+<form name="myform">
+    <input type="hidden" name="cd_biz_lnd" value="150222">
+    <input type="hidden" name="no_dong" value="5910">
+    <input type="hidden" name="dong" value="5910">
+    <input type="hidden" name="no_nohs" value="304">
+    <input type="hidden" name="nm_shpe_area" value="84C">
+    <input type="hidden" name="yn_email" value="null">
+    <input type="hidden" name="yn_sms" value="null">
+    <input type="hidden" name="yn_marketing" value="null">
+    <input type="hidden" name="ip" value="52.231.64.92">
+    <input type="hidden" name="dupCheck">
+    <input type="hidden" name="dt_mvin_aptt_begn">
+    <input type="hidden" name="dt_mvin_aptt_end">
+    <input type="hidden" name="seq_leas_cndt_choc">
+    <input type="hidden" name="cnts_mvin_aptt" id="cnts_mvin_aptt" value="계약체결일로부터 1개월 이내">
+    <div class="newstay-prwa-fm01-c3-container" id="container">
+        <div id="content" role="main">
+            <div class="sub-page-title-area">
+                <div class="h-title-area">
+                    <div class="h-title small02">계약/대기 신청</div>
+                </div>
+            </div>
+            <div class="section-a">
+                
+
+
+
+
+
+<div class="lnb-tab-menu n-equal">
+    <div class="lnb-container">
+        <div class="lnb-menu">
+    
+            <a class="btn " href="https://wr.elife.co.kr/MCowa_form01.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=10020100000000"><span class="txt">대기 신청</span></a>
+    
+            <a class="btn on" href="https://wr.elife.co.kr/MCoca_form01.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=10020200000000"><span class="txt">계약 신청</span></a>
+    
+        </div>
+    </div>
+</div>
+
+
+            </div>
+            <div class="section-a">
+                <div class="step-wrap4 clfix">
+                    <div class="step first mr-20">
+                        <span class="title">1</span>
+                        <span class="desc">주택형/동 선택</span>
+                    </div>
+                    <div class="step second on">
+                        <span class="title">2</span>
+                        <!--s : 20200413 텍스트수정-->
+                        <span class="desc">호/임대 조건 선택</span>
+                        <!--e : 20200413 텍스트수정-->
+                    </div>
+                    <div class="step third">
+                        <span class="title">3</span>
+                        <span class="desc">계약 신청 내용</span>
+                    </div>
+                    <div class="step four">
+                        <span class="title">4</span>
+                        <span class="desc">신청완료</span>
+                    </div>
+                </div>
+            </div>
+            <div class="section-a">
+                <div class="alarm-desc">
+                    <span>
+                        계약 신청은 단지 별
+                        <span class="font-color06 ml-5">1회</span>
+                        만 가능하며 신청 내역은 퍼스트스테이 마이홈에서 확인할 수 있습니다.
+                    </span>
+                </div>
+            </div>
+            <div class="section-a mt-45 pb-45 space01 line01">
+                <div class="h-title-area mb-30">
+                    <!--s: 20200413 텍스트 수정-->
+                    <h3 class="h-title small01">
+                        호 선택
+                        <span class="sub-txt01 mt-15 line-height02">입주를 희망하는 호 수와 임대 조건을 선택해주시기 바랍니다.</span>
+                    </h3>
+                    <!--e: 20200413 텍스트 수정-->
+                </div>
+                <div class="table-scroll mb-15">
+                    <div class="table-container type01">
+                        <table class="table-col">
+                            <colgroup>
+                                
+                                    <col>
+                                
+                                    <col>
+                                
+                                    <col>
+                                
+                                    <col>
+                                
+                                    <col>
+                                
+                                    <col>
+                                
+                                    <col>
+                                
+                                    <col>
+                                
+                                    <col>
+                                
+                                    <col>
+                                
+                            </colgroup>
+                            <caption>구분 : 동, 주택형, 세대 수, 신청여부</caption>
+                            
+                            <tbody>
+                        <tr>
+<td class="reserv-end"><span></span></td>
+<td class="reserv-end"><span></span></td>
+<td class="reserv-end"><span></span></td>
+<td class="reserv-end"><span></span></td>
+<td class="reserv-end"><span></span></td>
+<td class="reserv-end"><span></span></td>
+<td class="reserv-end"><span>407</span></td>
+<td class="reserv-end"><span>408</span></td>
+<td class="reserv-end"><span>409</span></td>
+<td class="reserv-end"><span>410</span></td>
+</tr>
+<tr>
+<td class="reserv-end"><span>301</span></td>
+<td class="reserv-end"><span>302</span></td>
+<td class="reserv-end"><span>303</span></td>
+<td class="reserv-check"><a href="javascript:msetInfo(&#39;304&#39;,&#39;84C&#39;,&#39;84C&#39;,&#39;150222&#39;,&#39;0&#39;,&#39;2022-10-06&#39;,&#39;2022-11-06&#39;,&#39;01&#39;,&#39;계약체결일로부터 1개월 이내&#39; , this)" role="button"><span>304<span></span></span></a></td>
+<script>
+ document.myform.no_nohs.value = '304';
+ document.myform.nm_shpe_area.value = '84C';
+</script>
+<td class="reserv-end"><span>305</span></td>
+<td class="reserv-end"><span>306</span></td>
+<td class="reserv-end"><span>307</span></td>
+<td class="reserv-end"><span>308</span></td>
+<td class="reserv-end"><span>309</span></td>
+<td class="reserv-end"><span>310</span></td>
+</tr>
+<tr>
+<td class="reserv-end"><span>201</span></td>
+<td class="reserv-end"><span>202</span></td>
+<td class="reserv-end"><span>203</span></td>
+<td class="reserv-end"><span>204</span></td>
+<td class="reserv-end"><span>205</span></td>
+<td class="reserv-end"><span>206</span></td>
+<td class="reserv-end"><span>207</span></td>
+<td class="reserv-end"><span>208</span></td>
+<td class="reserv-end"><span>209</span></td>
+<td class="reserv-end"><span>210</span></td>
+</tr>
+<tr>
+<td class="reserv-end"><span>101</span></td>
+<td class="reserv-end"><span>102</span></td>
+<td class="reserv-end"><span>103</span></td>
+<td class="reserv-end"><span>104</span></td>
+<td class="reserv-end"><span>105</span></td>
+<td class="reserv-end"><span>106</span></td>
+<td class="reserv-end"><span>107</span></td>
+<td class="reserv-end"><span>108</span></td>
+<td class="reserv-end"><span>109</span></td>
+<td class="reserv-end"><span>110</span></td>
+</tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="select-txt"><span class="txt line-height02">84C&nbsp;5910동  304호를 선택했습니다.</span></div>
+            </div>
+            <div class="section-a mt-45 pb-45 space01 line01">
+                <div class="h-title-area mb-30">
+                    <h3 class="h-title small01">
+                        임대 조건 선택
+                        <span class="sub-txt01 mt-15 line-height02">임대 조건 선택 후 변경이 불가하며 계약 신청하신 고객님의 명의로 컨시어지에 방문하여 계약을 체결하셔야 합니다.</span>
+                    </h3>
+                </div>
+                <div class="radio-group">
+                    
+                </div>
+            </div>
+            <div class="section-a mt-45 mb-75 space01">
+                <div class="h-title-area mb-50">
+                    <h3 class="h-title small01">
+                        입주 지정 기간
+                        <span class="sub-txt01 mt-15 line-height02">
+                        계약체결일로부터 1개월 이내
+</span>
+                    </h3>
+                </div>
+                <div class="img-area">
+                    <img class="mb-75" src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/84C_left_B.jpg" alt="" width="100%">
+                    <img src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/84C_right_B.jpg" alt="" width="100%">
+                </div>
+            </div>
+            <div class="section-a mt-45 mb-75 space01">
+                <div style="text-align: center;margin-bottom:20px;">
+                    <div id="google_recaptha" style="display: inline-block;"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/anchor.html" width="304" height="78" role="presentation" name="a-l5yj50du4u7j" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;" src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/saved_resource(1).html"></iframe></div>
+                </div>
+                <div class="btn-group">
+                    <div class="column col-2-a1">
+                        <a class="btn-round02" href="javascript:goBack();"><span class="txt">이전</span></a>
+                    </div>
+                    <div class="column col-2-a2">
+                        <a class="btn-round01" href="javascript:my001.submitIt();">
+                            <!--s: 20200413 텍스트 수정-->
+                            <span class="txt">다음</span>
+                            <!--e: 20200413 텍스트 수정-->
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<script src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/api.js.다운로드" async="" defer=""></script>
+<script type="text/javascript">
+    $(function() {
+        var data = '{"BojungLeasList":[{"ODER_CHOC":3,"AM_DPST":"474,628,000","AM_LEAS":"404,800","SEQ_DONG_NOHS_CNDT":98715,"FORM_PYNG":"84C","DT_MVIN_APTT_BEGN":null,"CD_DTLS_SITE":"150222A","DT_MVIN_APTT_END":null}]}';
+        data = eval("("+data+")");
+        my01.ajaxSucceed(data);
+    });
+    $(function() {
+        $('.planefigure-view4').each(function(n){
+           $(this).children('img').error(function(){
+             $(this).attr('src', '/common/ps/images/newstay/no-img.jpg');
+             $(this).parent().children('a').remove();
+           });
+        });
+        
+        $(document).keydown(function(e){   
+            if(e.target.nodeName != "INPUT" && e.target.nodeName != "TEXTAREA") {       
+                if(e.keyCode === 8) {   
+                    return false;
+                }
+            }
+        });
+        
+        window.history.forward(0);
+
+        if(typeof(grecaptcha) != 'undefined' && grecaptcha.getResponse().length > 0) {
+            grecaptcha.reset(
+                'google_recaptha'
+            );
+
+            grecaptcha.render('google_recaptha', {
+            'sitekey' : '6LdrkukaAAAAAF6TXOG3VlSXHcN-D_XbqopdkERV',
+            'theme' : 'light',
+            'expired-callback': expCallback
+            });
+        }
+        
+    });
+
+    var expCallback = function(){
+        grecaptcha.reset();
+    }
+    
+    var onloadCallback = function() {
+        grecaptcha.render('google_recaptha', {
+            'sitekey' : '6LdrkukaAAAAAF6TXOG3VlSXHcN-D_XbqopdkERV',
+            'theme' : 'light',
+            'expired-callback': expCallback
+          });
+        
+      };
+</script>
+<script>
+    $(function() {
+    });
+    
+</script>
+<script>
+    var my001 = {
+        setInfo:function(nohs, form_pyng, org_form_pyng, cd_site, bg2Count, dt_mvin_aptt_begn, dt_mvin_aptt_end, cnts_mvin_aptt_dr,cnts_mvin_aptt , obj) {
+            var obj = document.myform;
+            var ipju = "";
+            
+            var nohs_span = $('.table-col tbody tr td a span');
+            $('.table-col tbody tr td').removeClass('reserv-check');
+            $(nohs_span).each(function(idx) {
+                if(nohs_span.eq(idx).text() == nohs){
+                    nohs_span.eq(idx).parent().parent().addClass('reserv-check');               
+                } 
+            });
+            
+            
+            if (cd_site == '150072') {
+                var dong = '5910';
+                var dongho = dong+"동 "+nohs+"호";
+                var select_dongho = form_pyng +" " + dong+"동 "+nohs+"호를 선택 했습니다."; 
+                
+                $('.section-a:eq(3) .column .txt01').text(select_dongho);
+                
+                ipju = cnts_mvin_aptt;
+                
+                $('#cnts_mvin_aptt').val(ipju); //입주가능일 셋팅
+                
+                toastAlert(dongho+"는 "+ipju+" 입주 가능합니다.");
+                
+            } else if (cd_site == '150222') {
+                var dong = '5910';
+                var dongho = dong+"동 "+nohs+"호";
+                var select_dongho = form_pyng +" " + dong+"동 "+nohs+"호를 선택 했습니다.";
+                
+                $('.section-a:eq(3) .column .txt01').text(select_dongho);
+                
+                ipju = cnts_mvin_aptt;
+                $('#cnts_mvin_aptt').val(cnts_mvin_aptt); //입주가능일 셋팅
+                
+                if(cnts_mvin_aptt.indexOf("계약체결일로부터") > -1){
+                    toastAlert( "계약체결 즉시 입주가능하며 "+ipju+" 입주하여야 합니다.");
+                } else { 
+                    toastAlert(ipju+" 입주하여야 합니다.");
+                }
+            }
+            
+            obj.nm_shpe_area.value = form_pyng;
+            obj.no_nohs.value = nohs;
+            if (dt_mvin_aptt_begn && dt_mvin_aptt_end) {    //입주 가능일    
+                //$('.application2_2 .detail .conR ul li:eq(2) dl dd').text(dt_mvin_aptt_begn + ' ~ ' + dt_mvin_aptt_end + ' 이내');  
+            	$('.section-a:eq(5) > div > h3 > span').text(ipju); 
+                    
+            } else {
+                var dt_mvin_aptt_begn = "2022-10-06"; 
+                var dt_mvin_aptt_end = "2022-12-06";
+                //var str = dt_mvin_aptt_begn + ' ~ ' + dt_mvin_aptt_end + ' 이내';
+                $('.section-a:eq(5) > div > h3 > span').text(ipju); 
+            }
+            
+            var thumb_left_path = "/jsp/front/ct/"+cd_site+"/static/images/plane/"+org_form_pyng+"_thumb_left.jpg";
+            var thumb_right_path = "/jsp/front/ct/"+cd_site+"/static/images/plane/"+org_form_pyng+"_thumb_right.jpg";
+            var big_left_path = "/jsp/front/ct/"+cd_site+"/static/images/plane/"+org_form_pyng+"_left_B.jpg";
+            var big_right_path = "/jsp/front/ct/"+cd_site+"/static/images/plane/"+org_form_pyng+"_right_B.jpg";
+            
+            if(form_pyng == '84HG1' || form_pyng == '84HG2' || form_pyng == '84HG3' || form_pyng == '84A2'){
+                $('.img-area img:eq(0)').attr('src' , '/common/ps/images/newstay/no-img.jpg');
+                //$('.section-a:eq(5) div:eq(2) div div:eq(0) button').css('display' ,'none');
+            } else {
+                $('.img-area img:eq(0)').attr('src' , thumb_left_path);
+                //$('.section-a:eq(5) div:eq(2) div div:eq(0) button').css('display' ,'');
+                //$('#selectImg01 div div:eq(1) img').attr('src' ,  big_right_path); 
+            }
+            $('.img-area img:eq(1)').attr('src' , thumb_right_path);
+            //$('#selectImg02 div div:eq(1) img').attr('src' ,  big_right_path);
+            
+            //this.addClass($('.application2_2 .detail .dCont table td.bg2'), bg2Count);
+            this.imageError($('.planefigure-view4:eq(0)'));
+            this.imageError($('.planefigure-view4:eq(1)'));
+            
+            //보증금, 월임대료 SET
+            my01.execAjax(cd_site, dong, nohs);
+            
+            cal.setCal(dt_mvin_aptt_begn, dt_mvin_aptt_end);
+        },
+        addClass:function(obj, bg2Count) {
+            $(obj).each(function(idx) {
+                if ($(this).children("a").hasClass("on") == true) {
+                    $(this).children("a").removeClass("on");
+                }
+                if (idx == bg2Count) {
+                    $(this).children("a").addClass("on");
+                }
+            });
+        },
+        imageError:function(obj) {
+           $(obj).children('img').error(function(){
+             $(this).attr('src', '/common/ps/images/newstay/no-img.jpg');
+             $(this).parent().children('a').remove();
+           });
+        },
+        cancelIt:function() {
+            var msg = "취소 하시겠습니까?";
+            if (confirm(msg)) {
+                location.href = "Prca_form01.action";
+            }
+        },
+        submitIt:function() {
+            var obj = document.myform;
+            //var msg = "선택하신 정보로 임대 신청을 하시겠습니까?";
+            var f = '150222';
+            var v = f=='150072' ? '왼쪽' : '위의';          
+
+            if (!obj.no_nohs.value) {
+                toastAlert(f+" 세대표에서 신청하시고자 하는 세대를 선택하세요.");
+                return;
+            } else if ($('input:radio[name=conditions]:checked').val() == '' ||
+                    typeof $('input:radio[name=conditions]:checked').val() == 'undefined') {
+                toastAlert('임대조건을 선택하세요.');
+                $('input:radio[name=conditions]').eq(0).focus();
+                return;
+            /* } else if (!obj.dt_mvin_hope.value) {
+                alert("입주 희망일을 입력하세요.");
+                obj.dt_mvin_hope.focus();
+                return; */
+            } else if(grecaptcha.getResponse().length ==0){
+                toastAlert('로봇 보안검증을 마친 후 진행 바랍니다.');
+                return;
+            } else {
+                
+                var isSubmitted = false;  
+                if(isSubmitted == false) {
+                    //if (confirm(msg)) {
+                        
+                        var obj = document.myform;
+                        obj.action = "MCoca_form03.action?CD_BIZ_LND=150222&CD_LEAS_MNU=10020200000000";
+                        obj.method = 'post';
+                        obj.submit();
+                        //my02.execAjax(f, no_dong, no_nohs);
+                    //}
+                }
+            }
+        }
+    };
+    
+    var my02 = {
+        execAjax:function(cd_biz_lnd, no_dong, no_nohs) {
+            var formData = $('#myform01').serialize();
+            $.ajax({
+                type : "POST",
+                url  : "FCoca_hopeinsert.action",
+                data : formData,
+                dataType : "json",
+                success  : my02.ajaxSucceed,
+                error    : my02.ajaxFailed
+            });
+        },
+        ajaxSucceed:function(data) {
+            if (data.result == 0) { //중복, 실패
+                toastAlert("신청하신 내역이 존재합니다. \n\r하나의 단지에 한번만 신청 가능합니다."); 
+            } else if (data.result == 2) {  //다른 사람이 신청함.
+            	toastAlert("다른 분께서 신청한 내역이 존재합니다.");
+                var obj = document.myform;
+                obj.action = "MCoca_form02.action";
+                obj.method = "POST";
+                obj.submit();
+            } else {
+                location.href = "MCoca_form03.action?no_leas_aplt_sral="+data.no_leas_aplt_sral;
+            }
+        },
+        ajaxFailed:function() {
+        	toastAlert('처리중 오류가 발생하였습니다. 다시 시도하여 주시기 바랍니다.');
+        }
+    };
+    
+    /* 보증금 */
+    var my01 = {    
+        execAjax:function(cd_biz_lnd, dong, nohs) {
+            $.ajax({
+                type : "POST",
+                url  : "FCoca_getBojungLeas.action",
+                data : "cd_biz_lnd="+cd_biz_lnd+"&dong="+dong+"&nohs="+nohs,
+                dataType : "json",
+                success  : my01.ajaxSucceed,
+                error    : my01.ajaxFailed
+            });
+        },
+        ajaxSucceed:function(data) {
+            
+            var cd_biz_lnd = '150222'; 
+            var row = 1;
+            
+            divHtml = "";
+            $(data.BojungLeasList).each(function(idx) {
+                divHtml += "    <div class=\"radio-btn mb-20\">\n";
+                divHtml += "        <span class=\"input-radio right\"> \n";
+                divHtml += "            <input type=\"radio\" id=\"frm"+idx+"\" name=\"conditions\" onclick=\"my01.onclickIt(\'" + data.BojungLeasList[idx].SEQ_DONG_NOHS_CNDT +"|"+data.BojungLeasList[idx].ODER_CHOC +"|"+data.BojungLeasList[idx].CD_DTLS_SITE+ "\');\" value=\"" + data.BojungLeasList[idx].AM_DPST +"|"+data.BojungLeasList[idx].AM_LEAS+"\" />\n";
+                divHtml += "            <label for=\"frm"+idx+"\"><span class=\"txt\">보증금 "+data.BojungLeasList[idx].AM_DPST+"원 / 임대료 "+data.BojungLeasList[idx].AM_LEAS+"원</span></label> \n";
+                divHtml += "        </span> \n";
+                divHtml += "    </div> \n";
+                
+                row ++;
+                
+            });
+            $(".radio-group").html(divHtml);
+        },
+        ajaxFailed:function(data) {
+        	toastAlert('처리중 오류가 발생하였습니다. 다시 시도하여 주시기 바랍니다.');
+        },
+        onclickIt:function(data) {
+            var obj = document.myform;
+            obj.seq_leas_cndt_choc.value = data;
+        }
+    };
+    
+    function msetInfo(nohs, form_pyng, org_form_pyng, cd_site, bg2Count, dt_mvin_aptt_begn, dt_mvin_aptt_end, cnts_mvin_aptt_dr,cnts_mvin_aptt,obj) {
+        my001.setInfo(nohs, form_pyng, org_form_pyng, cd_site, bg2Count, dt_mvin_aptt_begn, dt_mvin_aptt_end, cnts_mvin_aptt_dr,cnts_mvin_aptt,obj);
+    }
+    
+    function goBack() {
+        var obj = document.myform;
+        obj.action = "MCoca_form01.action?CD_BIZ_LND=150222&CD_LEAS_MNU=10020200000000";
+        obj.method = "post";
+        obj.submit();
+    }
+</script>
+    
+    
+            <!-- footer -->
+            
+
+
+
+
+
+<div class="popup-wrap middle personal-certification" id="pop_logout">
+    <div class="popup-dialog popup-type01">
+        <div class="popup-container">
+            <div class="popup-header">
+                <h1 class="tit01">로그아웃 하시겠습니까?</h1>
+            </div>
+            <div class="popup-footer">
+                <div class="btn-group">
+                    <div class="column col-2-b1">
+                        <button class="btn-full03" type="button" onclick="closeLogout()"><span class="txt">취소</span></button>
+                    </div>
+                    <div class="column col-2-b2">
+                        <a class="btn-full01" href="javascript:goLogout();"><span class="txt">확인</span></a>
+                    </div>
+                </div>
+            </div>
+            <button class="btn-close-layerpopup" type="button" onclick="closeLogout()">
+                <i class="ico-close-layerpopup01" aria-hidden="true"></i>
+                <span class="hide-txt">닫기</span>
+            </button>
+        </div>
+    </div>
+    <!-- e 수정 20200408 팝업 추가-->
+</div>
+<script type="text/javascript">
+function closeLogout(){
+	TweenMax.to($('.dimm'), 0.4, {opacity: 0, 'display': 'none', ease: Power4.easeOut});	
+	$layerPopup.close('.popup-wrap');
+}
+</script>
+<footer id="footer">
+    <div class="footer-newstay-content black">
+        <div class="footer-full-type">
+            <div class="footer-logo-area">
+                <!-- s: 20200511 푸터 로고 화이트 버전 추가-->
+                <a href="https://www.elife.co.kr//MMnmn_main.action">
+                    <img class="footer-logo-white" src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/logo_dealim.png" alt="DL이앤씨">
+                    <img class="footer-logo-black" src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/logo_black.png" alt="DL이앤씨">
+                </a>
+                <!-- e: 20200511 푸터 로고 화이트 버전 추가-->
+            </div>
+            <div class="footer-info-area">
+                <div class="footer-link-list">
+                    <a class="link" href="https://www.elife.co.kr//MMnmn_footerEmail.action"><span class="txt">이메일 무단 수집거부</span></a>
+                    <a class="link" href="https://www.elife.co.kr//MMnmn_footerAgree.action"><span class="txt">이용약관</span></a>
+                    <a class="link" href="https://www.elife.co.kr//MMnmn_footerPerson.action"><span class="txt bold" style="color:#a9a9a9;">개인정보처리방침</span></a>
+                </div>
+                <div class="footer-link-list">
+                    <a class="link" href="https://www.elife.co.kr//MMnmn_footerPerson_02.action"><span class="txt">영상정보처리기기운영 및 관리방침</span></a>
+                    <a class="link" href="https://wr.elife.co.kr/MCtjp_main.action?CD_BIZ_LND=150222&amp;CD_LEAS_MNU=06060000000000"><span class="txt">사이트맵</span></a>
+                </div>
+                <div class="footer-company-info">
+                    <!-- s: 20200417 텍스트 수정 (Concierge -> 컨시어지)-->
+                    <p class="txt">컨시어지 : 02-3443-6777</p>
+                    <!-- e: 20200417 텍스트 수정 (Concierge -> 컨시어지)-->
+                    <!--<p class="txt">방문상담: 평일 AM 9:00 ~ PM 5:00 / 토요일 AM 9:00 ~ PM 3:00</p>
+                    <p class="txt">유선상담: 평일 AM 9:00 ~ PM 5:00</p>-->
+					<p class="txt">운영시간: 평일 AM 9:00 ~ PM 5:00 (주말, 법정공휴일 휴무)</p>
+                </div>
+                <div class="footer-copyright">COPYRIGHT DL이앤씨. ALL RIGHTS RESERVED.</div>
+            </div>
+            <div class="footer-util-area">
+                <!-- s: 20200417 패밀리사이트 수정-->
+                <div class="family-site-wrap">
+                    <select class="select-footer" title="">
+                        <option value="0">Family Site</option>
+                        <option value="https://www.dlenc.co.kr">DL이앤씨</option>
+                        <option value="https://www.elife.co.kr">e편한세상</option>
+                        <option value="https://www.dlcon-apt.co.kr/">DL건설</option>
+                    </select>
+                </div>
+                <!-- e: 20200417 패밀리사이트 수정-->
+            </div>
+        </div>
+    </div>
+</footer>
+            <!-- //footer -->
+        </div>
+        <div class="dimm"><img src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/blank_size_100.png" alt=""></div>
+        
+        <script type="text/javascript">
+        var isMobile = {
+                Android: function () {
+                         return navigator.userAgent.match(/Android/i);
+                },
+                BlackBerry: function () {
+                         return navigator.userAgent.match(/BlackBerry/i);
+                },
+                iOS: function () {
+                         return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+                },
+                Opera: function () {
+                         return navigator.userAgent.match(/Opera Mini/i);
+                },
+                Windows: function () {
+                         return navigator.userAgent.match(/IEMobile/i);
+                },
+                any: function () {
+                         return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+                }
+            };
+        
+            //alert(isMobile.Android());
+            //alert(isMobile.iOS());
+            var appLocation = '';
+            if (isMobile.Android()) {
+                appLocation = 'https://play.google.com/store/apps/details?id=kr.co.daelimcorp.smarthome'
+            }
+            if (isMobile.iOS()) {
+                appLocation = 'https://itunes.apple.com/kr/app/epyeonhansesang-seumateuhom/id1109202165?mt=8';
+            }
+        
+            if (appLocation == '') {
+                appLocation = 'javascript:alert("Android, iOS 기기에서만 사용하실 수 있습니다.")';
+            }
+            $('.gnb-wrap .header-util .btn-header-util:eq(0)').attr('href', appLocation);
+            
+            function showLogout(){
+                $('.gnb-wrap').css('display','none');
+                javascript:$layerPopup.open('#pop_logout');
+                
+            }
+            function goLogout(){
+                document.location.href = "/Lglg_logout.action?CD_BIZ_LND=150222&site=newstay&type=M";
+            }
+            
+            function goLogin() {
+                var return_url = "https://wr.elife.co.kr/MCtmn_main.action?CD_BIZ_LND=150222";
+                document.location.href = "https://www.elife.co.kr/Coco_returnUrlMobile.action?RETURN_URL="+encodeURIComponent(return_url);
+            }
+        </script>
+        <div class="toast-popup-area" id="toast_pop_01">
+            <div class="toast complete">
+                <i class="ico-toast-check" aria-hidden="true"></i>
+                <span class="text">삭제 되었습니다.</span>
+            </div>
+            <button class="close" type="button" onclick="$layerPopup.close(&#39;.toast-popup-area&#39;);">
+                <i class="ico-toast-close" aria-hidden="true"></i>
+                <span class="hide-txt">닫기</span>
+            </button>
+        </div>
+        <div class="toast-popup-area" id="toast_pop_02">
+            <div class="toast link">
+                <i class="ico-toast-check02" aria-hidden="true"></i>
+            </div></div><div style="visibility: hidden; position: absolute; width: 100%; top: -10000px; left: 0px; right: 0px; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.5;"></div><div style="margin: 0px auto; top: 0px; left: 0px; right: 0px; position: absolute; border: 1px solid rgb(204, 204, 204); z-index: 2000000000; background-color: rgb(255, 255, 255); overflow: hidden;"><iframe title="recaptcha challenge expires in two minutes" src="./계약_대기 신청 계약 신청 _ e편한세상 테라스위례 모바일5_files/bframe.html" name="c-l5yj50du4u7j" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div></body></html>
